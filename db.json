@@ -1,16 +1,74 @@
 {
-  "posts": [
+  "rewards": [
     {
-      "id": 1,
-      "title": "Kit Kat"
-    },
-    {
-      "id": 2,
-      "title": "Pocky"
-    },
-    {
-      "id": 3,
-      "title": "Salted Egg Potato Chip"
-    }
+    "rewardID": "1",
+    "rewardName": "Kit Kat",
+    "rewardImage": "https://cdn0.woolworths.media/content/wowproductimages/large/098376.jpg",
+    "rewardPoints": "1"
+ },
+
+ {
+    "rewardID": "2",
+    "rewardName": "Pocky",
+    "rewardImage": "https://target.scene7.com/is/image/Target/GUEST_e3c1d54b-ffc0-48a2-8e9d-fea40084cf08?wid=488&hei=488&fmt=pjpeg",
+    "rewardPoints": "2"
+ },
+
+ {
+    "rewardID": "3",
+    "rewardName": "Mentos",
+    "rewardImage": "https://images-na.ssl-images-amazon.com/images/I/41A9K5F3QCL._SY355_.jpg",
+    "rewardPoints": "3"
+ },
+
+ {
+    "rewardID": "4",
+    "rewardName": "Rainbow Lollipop",
+    "rewardImage": "http://cdn.shopify.com/s/files/1/1696/6039/products/lollipops-rainbow-blast-hammonds-1_1200x1200.png?v=1527632946",
+    "rewardPoints": "4"
+ },
+
+ {
+    "rewardID": "5",
+    "rewardName": "Twisties BBQ Curry",
+    "rewardImage": "https://secure.ap-tescoassets.com/assets/MY/092/7622210270092/ShotType1_540x540.jpg",
+    "rewardPoints": "3"
+ },
+
+ {
+    "rewardID": "6",
+    "rewardName": "Halls Honey Lemon Candy",
+    "rewardImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWKSvoh5zH2lRj6CvMqJELHfEBKXMwbFJER1KbT9jlNjHxg7vDVA",
+    "rewardPoints": "2"
+ },
+
+ {
+    "rewardID": "7",
+    "rewardName": "PoPo Fish Crackers",
+    "rewardImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3jqjar4zET2ehf5xIEd95AMBmx3n0HZnPrPlUd6jfkI3r3Xm",
+    "rewardPoints": "4"
+ },
+
+ {
+    "rewardID": "8",
+    "rewardName": "Pringles Sour Cream & Onion",
+    "rewardImage": "https://target.scene7.com/is/image/Target/GUEST_575b38b4-0a97-433b-9aad-9f259f687a55?wid=488&hei=488&fmt=pjpeg",
+    "rewardPoints": "8"
+ },
+
+ {
+    "rewardID": "9",
+    "rewardName": "Lay's Spring Onion Flavoured Chips",
+    "rewardImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsvqcfbLIX_mllv_P-UmIz7B_Wsxut6_BLTnveMvccnJfdRzT",
+    "rewardPoints": "9"
+ },
+
+ {
+    "rewardID": "10",
+    "rewardName": "Salted Egg Potato Chips",
+    "rewardImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1GuBKixXpJi_Cf-ueKMHHYluhmjypngvFuRWURVySKZFOJKR1w",
+    "rewardPoints": "10"
+ }
+
   ]
 }
