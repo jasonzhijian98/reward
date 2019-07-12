@@ -70,8 +70,9 @@
     "rewardPoints": "10"
  }
 
-  ]
- "users": [
+  ],
+  
+ "users" : [
     
  {
     "userID": "1",
