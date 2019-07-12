@@ -71,4 +71,40 @@
  }
 
   ]
+ "users": [
+    
+ {
+    "userID": "1",
+    "userName": "aaaaa",
+    "userPass": "11111",
+    "userPoints": 200
+  },
+
+  {
+    "userID": "2",
+    "userName": "bbbbb",
+    "userPass": "22222",
+    "userPoints": 300
+  },  
+  {
+    "userID": "3",
+    "userName": "ccccc",
+    "userPass": "33333",
+    "userPoints": 50
+  },
+
+  {
+    "userID": "4",
+    "userName": "ddddd",
+    "userPass": "44444",
+    "userPoints": 100
+  },
+
+  {
+    "userID": "5",
+    "userName": "eeeee",
+    "userPass": "55555",
+    "userPoints": 500
+  }
+ ]
 }
